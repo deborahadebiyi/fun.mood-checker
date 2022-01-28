@@ -1,0 +1,22 @@
+{
+  "name": "fun.mood-checker",
+  "version": "1.0.0",
+  "description": "mood checker for team fun meetings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deborahadebiyi/fun.mood-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deborahadebiyi/fun.mood-checker/issues"
+  },
+  "homepage": "https://github.com/deborahadebiyi/fun.mood-checker#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
